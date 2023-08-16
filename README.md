@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaraj Chavan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=50&duration=5000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Passionate+Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+Tech+%F0%9F%92%99" alt="Typing SVG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj2004&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj2004" /> </p>
 
