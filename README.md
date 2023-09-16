@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/swaraj_1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaraj_1102" height="30" width="40" /></a>
+  <a href="https://twitter.com/swaraj__chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swaraj_1102" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/swaraj-chavan-921658246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaraj-chavan-921658246" height="30" width="40" /></a>
   <a href="https://instagram.com/swaraj__chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaraj__chavan" height="30" width="40" /></a>
 </p>
