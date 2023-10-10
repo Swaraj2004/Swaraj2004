@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=50&duration=5000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Passionate+Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+Tech+%F0%9F%92%99" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Jkbeducation website](https://jkbeducation.onrender.com/)
+- 🔭 I’m currently working on **GamersDB**
 
 - 🌱 I’m currently learning **React JS**
 
@@ -19,6 +19,7 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
