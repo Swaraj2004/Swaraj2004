@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **GamersDB**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **swarajchavan2004@gmail.com**
 
