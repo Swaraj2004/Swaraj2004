@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=50&duration=5000&pause=1000&center=true&vCenter=true&width=1200&height=150&lines=Passionate+Full+Stack+Developer;Tech+Enthusiast;Love+to+learn+new+Tech+%F0%9F%92%99" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **GamersDB**
+- 🔭 I’m currently working on **InternSync**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **swarajchavan2004@gmail.com**
 
